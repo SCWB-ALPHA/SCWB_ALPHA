@@ -12,17 +12,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2C%20Data%2C%20Accessibility-0B0F19?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Bahamas%20%7C%20Barbados-0B0F19?style=for-the-badge">
-  <a href="mailto:sscministry@outlook.com"><img src="https://img.shields.io/badge/Email-sscministry%40outlook.com-0B0F19?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Location-Remote-0B0F19?style=for-the-badge">
+  <a href="mailto:scwbelgrave@gmail.com"><img src="https://img.shields.io/badge/Email-scwbelgrave@gmail.com-0B0F19?style=for-the-badge"></a>
 </p>
 
 ---
 
 ### 🧭 About
-- 🧠 Current: IBM AI Fundamentals, DataCamp AI Governance, Flask apps  
-- 👐 Mission: Accessible AI for Deaf & Hard-of-Hearing learners  
-- 🚀 Goal: Ship more, simpler, inclusive tools
-
+- 🧠 **Currently Exploring:** Advancing my AI and Data Science skills through hands-on work—IBM AI Fundamentals, AI Governance (DataCamp), and building real Flask apps. I’m blending accessibility and tech so my work be inclusive for the less sensory loss.
+- 👐**Mission:** Create AI-driven tools and learning experiences that are simple, inclusive, and practical—especially for underrepresented learners.
+- 🚀 **Next Goal:** Ship and scale **SoulStart Console** and **Hands-On Visual AI** into polished platforms that both empower users and generate sustainable income.
+  
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-0B0F19?logo=python&logoColor=white">
